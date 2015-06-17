@@ -8,30 +8,32 @@ UnityGenerated/
 # ============= #
 # Library Files #
 # ============= #
-Node/Library/cache
-Node/Library/metadata
-Node/Library/previews
-Node/Library/ScriptAssemblies
-Node/Library/assetDatabase3
-Node/Library/AssetImportState
-Node/Library/assetservercachev3
-Node/Library/AssetServerCacheV3
-Node/Library/AssetVersioning.db
-Node/Library/AudioManager.asset
-Node/Library/BuildPlayer.prefs
-Node/Library/BuildSettings.asset
-Node/Library/DynamicsManager.asset
-Node/Library/EditorSettings.asset
-Node/Library/EditorUserBuildSettings.asset
-Node/Library/expandedItems
-Node/Library/FailedAssetImports.txt
-Node/Library/guidmapper
-Node/Library/InspectorExpandedItems.asset
-Node/Library/MonoManager.asset
-Node/Library/NetworkManager.asset
-Node/Library/ScriptMapper
-Node/Library/unity default resources
-Node/Library/unity editor resources
+$Node/Library
+cache
+metadata
+previews
+ScriptAssemblies
+assetDatabase3
+AssetImportState
+assetservercachev3
+AssetServerCacheV3
+AssetVersioning.db
+AudioManager.asset
+BuildPlayer.prefs
+BuildSettings.asset
+DynamicsManager.asset
+EditorSettings.asset
+EditorUserBuildSettings.asset
+expandedItems
+FailedAssetImports.txt
+guidmapper
+InspectorExpandedItems.asset
+MonoManager.asset
+NetworkManager.asset
+ScriptMapper
+unity default resources
+unity editor resources
+$Node/
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
