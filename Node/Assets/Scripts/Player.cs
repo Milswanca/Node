@@ -8,7 +8,6 @@ public class Player : MonoBehaviour
 	public float GridSize;
 	public float Speed;
 	public bool traversing;
-	private Vector2 gridPos;
 	private Waypoint next;
 
 	private Vector3 start;
@@ -36,8 +35,6 @@ public class Player : MonoBehaviour
 	// Update is called once per frame
 	void Update () 
 	{
-		gridPos = Grid.PosToGrid (transform.position, GridSize);
-
 		if (traversing) 
 		{
 			TraversePath();
